@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Large file
+/Assets/Models/0418_Entire_Interior_Scene_u0_v0_diffuse 1.48.07 PM.png
+/Assets/Models/0418_Entire_Interior_Scene.fbx
